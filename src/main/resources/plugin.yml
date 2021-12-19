@@ -1,0 +1,8 @@
+name: WatchParrot
+version: '${project.version}'
+main: xyz.plocki.watchparrot.WatchParrot
+api-version: 1.13
+author: plocki
+description: Anticheat.
+prefix: AntiCheat
+website: https://plocki.xyz
